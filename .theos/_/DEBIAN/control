@@ -1,0 +1,10 @@
+Package: me.tejasp.lowpowermode
+Name: lowPowerMode
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Tejas Prakash
+Author: Tejas Prakash
+Section: Tweaks
+Version: 0.0.1-3+debug
+Installed-Size: 136
